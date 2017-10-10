@@ -2,10 +2,9 @@
 
 ## Workshop Overview
 - Dependancies
+  - Git
   - Node/NPM
   - browser-sync
-  - DAT.GUI
-  - Stats.js
 - Canvas
   - Reference: Flash
   - Basic Graphics (Circle, Square, Rectangle, Image)
@@ -44,6 +43,7 @@ $ browser-sync start --server --files
 ### 4. Start Developing...
 
 # Resources
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
 - https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations
