@@ -37,7 +37,7 @@ $ npm install -g browser-sync
 
 ### 3. Run browser-sync inside the project's root
 ```bash
-$ browser-sync start --server --files
+$ browser-sync start --server . --files .
 ```
 
 ### 4. Start Developing...
